@@ -1,8 +1,7 @@
 //program for array
-//An array is a data structure that stores a collection of elements, typically of the same type, in a contiguous block of memory.
 /*
-Auther:Brian muriuki joseph
-Reg:CT102/G/22804/24
+Auother:vienna kimani
+Reg:CT102/G/246608/24
 Date:7/11/2024
 */
 #include <stdio.h>
