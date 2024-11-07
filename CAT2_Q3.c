@@ -1,7 +1,7 @@
 //program to calculate gross pay,taxe and net pay
 /*
-Auther:Brian muriuki joseph
-Reg:CT102/G/22804/24
+Auther:vienna kimani
+Reg:CT102/G/246608/24
 Date:7/11/2024
 */
 #include <stdio.h>
